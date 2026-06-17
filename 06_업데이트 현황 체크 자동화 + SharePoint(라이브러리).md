@@ -4,7 +4,7 @@
 
 ### 라이브러리(폴더) 파일 확인
 ```markdown
-- /https://sctek01.sharepoint.com/:f:/r/sites/KTestate/Shared%20Documents/Microsoft%20365_Copilot%20%EB%B3%80%ED%99%94%EA%B4%80%EB%A6%AC%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/5.%20%EC%A3%BC%EA%B0%84%20%ED%9A%8C%EC%9D%98?csf=1&web=1&e=BHc0iK 문서 라이브러리에 어떤 파일들이 있는지 보여줘. 가장 최근에 수정된 파일 순으로 정리해줘
+- / 문서 라이브러리에 어떤 파일들이 있는지 보여줘. 가장 최근에 수정된 파일 순으로 정리해줘
 ```
 
 ## STEP 2. 업데이트
