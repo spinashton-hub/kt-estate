@@ -1,4 +1,4 @@
-# 세션 4 — M365 Copilot 실습: 보호·완성 (15:55–16:25)
+# 세션 4 — M365 Copilot 실습
 
 **One Agenda, Four AI · KT에스테이트 임원 AI 활용 실습교육 · 프롬프트북 v2**
 
