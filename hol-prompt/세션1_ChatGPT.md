@@ -1,6 +1,6 @@
 # 세션 1 — ChatGPT 실습
 
-**One Agenda, Four AI · KT에스테이트 임원 AI 활용 실습교육 · 프롬프트북 v2**
+**One Agenda, Four AI · kt estate 임원 AI 활용 실습교육 · 프롬프트북 v2**
 
 > **사용법**
 > - 각 코드 블록 우측 상단의 복사 버튼으로 프롬프트를 복사해 ChatGPT에 붙여넣습니다.
