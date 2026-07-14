@@ -159,5 +159,7 @@
 
 ---
 
+### Teams Copilot 시연
+### Mobile Tablet Outlook, Teams Copilot 시연
 ## 클로징
 
