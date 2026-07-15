@@ -14,7 +14,7 @@
 ## STEP 1. 워밍업 (Mobile Phone ChatGPT Live Voice)
 
 ```markdown
-- 지금까지 대화내용을 md 형태로 정리
+- 지금까지 대화내용을 md 형태로 요약 정리
 ```
 
 ## STEP 2. 프로젝트 생성
