@@ -13,7 +13,9 @@
 
 ## STEP 1. 워밍업 (Mobile Phone ChatGPT Live Voice)
 
-날씨 -> 기분 (우울, 기쁨) -> 상황설명 -> 솔루션 도출
+```markdown
+- 지금까지 대화내용을 md 형태로 정리
+```
 
 ## STEP 2. 프로젝트 생성
 
