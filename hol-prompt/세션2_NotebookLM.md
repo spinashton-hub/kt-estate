@@ -13,6 +13,8 @@
 
 ## 준비. 소스 업로드
 
+ashton.kwon2@ktestate.com / MWjr4aN%
+
 새 노트북을 만들고, 아래 3종 소스를 업로드해 주세요.
 
 1. 세션 1에서 내보낸 **Deep Research 리포트 PDF** (`딥리서치_시니어주거.pdf`)
